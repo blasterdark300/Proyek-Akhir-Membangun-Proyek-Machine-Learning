@@ -9,9 +9,6 @@ Proyek ini bertujuan untuk melakukan analisis clustering dan klasifikasi pada da
 - Fitur yang digunakan:
   - **Fitur numerik**: Termasuk variabel kuantitatif untuk analisis.
   - **Fitur kategorikal**: Dikodekan menggunakan **One-Hot Encoding** untuk kompatibilitas dengan model machine learning.
-- **Path Dataset:**
-  - **VS Code**: `df = pd.read_csv('synthetic_beverage_sales_data.csv')  # Gantilah dengan jalur file yang benar`
-  - **Google Colab**: `data = pd.read_csv('/content/synthetic_beverage_sales_data.csv')`
 
 ## Clustering
 - Dilakukan feature selection untuk meningkatkan efektivitas clustering.
